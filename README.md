@@ -231,6 +231,12 @@ repository is an independent rebuild and extension. The schema was redesigned, a
 generator, audit, analysis, tests and CI are new. The original files are not included; the
 original data appears only as aggregate audit counts.
 
+## Tools
+
+Python (NumPy, pandas, SciPy, Matplotlib), PostgreSQL 16, pytest, GitHub Actions and Docker.
+Developed with the help of Claude (Anthropic) as an AI coding assistant, used for writing code,
+SQL and documentation.
+
 ## Resumen en español
 
 Proyecto de datos de punta a punta sobre el Metro de la CDMX: modelo relacional en PostgreSQL con
