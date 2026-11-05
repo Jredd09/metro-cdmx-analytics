@@ -1,0 +1,334 @@
+{
+  "rows": {
+    "snapshot": 1,
+    "state": 33,
+    "line": 12,
+    "station": 163,
+    "line_station": 195,
+    "station_entrance": 551,
+    "transit_service": 13,
+    "station_connection": 15,
+    "depot": 11,
+    "train": 372,
+    "maintenance_event": 7167,
+    "operator": 1542,
+    "operator_phone": 1807,
+    "shift_assignment": 91974
+  },
+  "audit": {
+    "clean_total_violations": 0,
+    "legacy": {
+      "ID-01": 182,
+      "ID-02": 1,
+      "ID-03": 1431,
+      "ID-04": 1492,
+      "ID-05": 1601,
+      "ID-06": 803,
+      "ID-07": 1612,
+      "NW-01": 28,
+      "NW-02": 2,
+      "NW-03": 4,
+      "NW-04": 0,
+      "OP-01": 2,
+      "OP-02": 378,
+      "OP-03": 0,
+      "OP-04": 1,
+      "OP-05": 0,
+      "OP-06": 0,
+      "OP-07": 1,
+      "OP-08": 383,
+      "OP-09": 0,
+      "OP-10": 1641
+    },
+    "legacy_profile": {
+      "station": 194,
+      "line_station": 192,
+      "train": 387,
+      "maintenance_event": 6,
+      "operator": 1650,
+      "shift_assignment": 386
+    }
+  },
+  "reliability": {
+    "spells": 7514,
+    "failures": 4378,
+    "censored_share": 0.417,
+    "survival_179d_by_manufacturer": {
+      "Bombardier": 0.288,
+      "Alstom": 0.166,
+      "CAF": 0.539,
+      "CRRC": 0.739
+    },
+    "survival_179d_by_age": {
+      "< 15 years": 0.662,
+      "15\u201335 years": 0.453,
+      "> 35 years": 0.248
+    },
+    "logrank_manufacturer": {
+      "chi2": 1063.8,
+      "dof": 3,
+      "p": 2.5916474664728193e-230
+    },
+    "logrank_age": {
+      "chi2": 693.6,
+      "dof": 2,
+      "p": 2.4023604551182287e-151
+    },
+    "cox_hazard_ratios": {
+      "manufacturer_Alstom": 1.25,
+      "manufacturer_CAF": 0.83,
+      "manufacturer_CRRC": 0.62,
+      "age_decades": 1.37,
+      "high_ridership": 1.46
+    },
+    "weibull_shape": 1.412,
+    "forecast_2026": {
+      "mean": 705.2,
+      "p10": 674.0,
+      "p90": 736.0,
+      "depot_days_mean": 7996.4
+    },
+    "actual_2025_failures": 694,
+    "pm_policy": {
+      "failures_per_year_current": 714,
+      "best_interval_if_breakdown_costs_5_days": 150,
+      "failures_per_year_at_that_interval": 681,
+      "penalty_where_180_stops_being_optimal": 3.5,
+      "intervals": {
+        "60": [
+          503,
+          10275
+        ],
+        "75": [
+          548,
+          9453
+        ],
+        "90": [
+          585,
+          8940
+        ],
+        "105": [
+          615,
+          8620
+        ],
+        "120": [
+          643,
+          8419
+        ],
+        "135": [
+          664,
+          8270
+        ],
+        "150": [
+          681,
+          8181
+        ],
+        "165": [
+          700,
+          8122
+        ],
+        "180": [
+          714,
+          8075
+        ],
+        "195": [
+          725,
+          8037
+        ],
+        "210": [
+          737,
+          8021
+        ],
+        "225": [
+          746,
+          8005
+        ],
+        "240": [
+          756,
+          8003
+        ],
+        "255": [
+          761,
+          7970
+        ],
+        "270": [
+          768,
+          8004
+        ],
+        "285": [
+          774,
+          7975
+        ],
+        "300": [
+          777,
+          7972
+        ],
+        "315": [
+          782,
+          7980
+        ],
+        "330": [
+          785,
+          7980
+        ],
+        "345": [
+          787,
+          7966
+        ],
+        "360": [
+          791,
+          7973
+        ]
+      }
+    },
+    "recovery_min_coverage": 0.93,
+    "line_kpi": [
+      {
+        "line_code": "A",
+        "name": "Line A",
+        "fleet": 30,
+        "avg_age_years": 29.3,
+        "failures_12m": 39,
+        "failures_per_train_year": 1.12,
+        "mtbf_days": 315,
+        "availability_12m_pct": 96.4
+      },
+      {
+        "line_code": "4",
+        "name": "Line 4",
+        "fleet": 12,
+        "avg_age_years": 48.3,
+        "failures_12m": 32,
+        "failures_per_train_year": 2.54,
+        "mtbf_days": 133,
+        "availability_12m_pct": 91.4
+      },
+      {
+        "line_code": "9",
+        "name": "Line 9",
+        "fleet": 30,
+        "avg_age_years": 32.0,
+        "failures_12m": 30,
+        "failures_per_train_year": 1.06,
+        "mtbf_days": 332,
+        "availability_12m_pct": 95.6
+      },
+      {
+        "line_code": "B",
+        "name": "Line B",
+        "fleet": 38,
+        "avg_age_years": 27.6,
+        "failures_12m": 63,
+        "failures_per_train_year": 1.5,
+        "mtbf_days": 233,
+        "availability_12m_pct": 95.2
+      },
+      {
+        "line_code": "5",
+        "name": "Line 5",
+        "fleet": 20,
+        "avg_age_years": 44.2,
+        "failures_12m": 40,
+        "failures_per_train_year": 1.77,
+        "mtbf_days": 194,
+        "availability_12m_pct": 92.6
+      },
+      {
+        "line_code": "12",
+        "name": "Line 12",
+        "fleet": 30,
+        "avg_age_years": 14.5,
+        "failures_12m": 30,
+        "failures_per_train_year": 0.93,
+        "mtbf_days": 378,
+        "availability_12m_pct": 97.1
+      },
+      {
+        "line_code": "6",
+        "name": "Line 6",
+        "fleet": 14,
+        "avg_age_years": 44.1,
+        "failures_12m": 25,
+        "failures_per_train_year": 1.61,
+        "mtbf_days": 214,
+        "availability_12m_pct": 93.4
+      },
+      {
+        "line_code": "2",
+        "name": "Line 2",
+        "fleet": 38,
+        "avg_age_years": 42.4,
+        "failures_12m": 126,
+        "failures_per_train_year": 2.67,
+        "mtbf_days": 126,
+        "availability_12m_pct": 90.4
+      },
+      {
+        "line_code": "3",
+        "name": "Line 3",
+        "fleet": 47,
+        "avg_age_years": 33.4,
+        "failures_12m": 101,
+        "failures_per_train_year": 1.97,
+        "mtbf_days": 174,
+        "availability_12m_pct": 92.3
+      },
+      {
+        "line_code": "8",
+        "name": "Line 8",
+        "fleet": 30,
+        "avg_age_years": 39.2,
+        "failures_12m": 81,
+        "failures_per_train_year": 2.74,
+        "mtbf_days": 123,
+        "availability_12m_pct": 91.5
+      },
+      {
+        "line_code": "1",
+        "name": "Line 1",
+        "fleet": 50,
+        "avg_age_years": 15.2,
+        "failures_12m": 66,
+        "failures_per_train_year": 1.25,
+        "mtbf_days": 280,
+        "availability_12m_pct": 95.4
+      },
+      {
+        "line_code": "7",
+        "name": "Line 7",
+        "fleet": 33,
+        "avg_age_years": 42.0,
+        "failures_12m": 61,
+        "failures_per_train_year": 1.75,
+        "mtbf_days": 196,
+        "availability_12m_pct": 94.4
+      }
+    ]
+  },
+  "operations": {
+    "staffing": {
+      "overall_coverage": 0.964,
+      "worst_line": "A",
+      "worst_line_coverage": 0.871,
+      "unstaffed_train_shifts_per_day": 37.8,
+      "lines_below_95pct": 2
+    },
+    "pay_equity": {
+      "operators": 1518,
+      "salary_per_tenure_year_mxn": 407.9,
+      "raw_gap_women_vs_men": -0.0139,
+      "adjusted_gap_mxn": -7.5,
+      "adjusted_gap_ci_mxn": [
+        -92.6,
+        77.6
+      ],
+      "adjusted_gap_pct_of_mean": -0.0004,
+      "r2": 0.948
+    },
+    "depots": {
+      "most_congested": "Constituci\u00f3n Depot",
+      "share_days_over": 0.002,
+      "depots_ever_over": 4
+    }
+  }
+}

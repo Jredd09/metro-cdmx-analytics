@@ -1,0 +1,7 @@
+parameter,truth,mean_estimate,sd,ci95_coverage
+shape,1.35,1.351,0.019,0.933
+manufacturer_Alstom,0.25,0.251,0.028,1.0
+manufacturer_CAF,-0.2,-0.213,0.064,0.967
+manufacturer_CRRC,-0.4,-0.423,0.132,0.967
+age_decades,0.3,0.297,0.03,0.933
+high_ridership,0.35,0.346,0.031,1.0
