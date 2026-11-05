@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+.env
+data/generated/
+# Original course files are not redistributed (see README)
+data/legacy/
+.DS_Store

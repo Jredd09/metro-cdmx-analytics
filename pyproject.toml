@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "metro-cdmx-analytics"
+version = "1.0.0"
+description = "Relational model, data-quality audit and fleet reliability analysis for Mexico City's Metro"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Jared González" }]
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26", "pandas>=2.1", "scipy>=1.11", "matplotlib>=3.8", "psycopg[binary]>=3.1"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
