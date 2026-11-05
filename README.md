@@ -234,8 +234,6 @@ original data appears only as aggregate audit counts.
 ## Tools
 
 Python (NumPy, pandas, SciPy, Matplotlib), PostgreSQL 16, pytest, GitHub Actions and Docker.
-Developed with the help of Claude (Anthropic) as an AI coding assistant, used for writing code,
-SQL and documentation.
 
 ## Resumen en español
 
