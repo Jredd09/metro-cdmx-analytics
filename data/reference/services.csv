@@ -1,0 +1,16 @@
+service_name,service_type,station_name
+Metrobús L1,BRT,Insurgentes
+Metrobús L1,BRT,Indios Verdes
+Metrobús L2,BRT,Tacubaya
+Metrobús L3,BRT,Balderas
+Metrobús L4,BRT,Buenavista
+Metrobús L4,BRT,San Lázaro
+Metrobús L5,BRT,San Lázaro
+Metrobús L7,BRT,Hidalgo
+Tren Ligero,Light rail,Tasqueña
+Tren Suburbano,Commuter rail,Buenavista
+Cablebús L1,Cable car,Indios Verdes
+Cablebús L2,Cable car,Constitución de 1917
+Mexibús L1,BRT,Ciudad Azteca
+Trolebús Eje Central,Trolleybus,Eje Central
+Trolebús Elevado,Trolleybus,Constitución de 1917

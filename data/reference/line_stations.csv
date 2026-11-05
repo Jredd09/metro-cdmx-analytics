@@ -1,0 +1,196 @@
+line_code,seq,station_name
+1,1,Observatorio
+1,2,Tacubaya
+1,3,Juanacatlán
+1,4,Chapultepec
+1,5,Sevilla
+1,6,Insurgentes
+1,7,Cuauhtémoc
+1,8,Balderas
+1,9,Salto del Agua
+1,10,Isabel la Católica
+1,11,Pino Suárez
+1,12,Merced
+1,13,Candelaria
+1,14,San Lázaro
+1,15,Moctezuma
+1,16,Balbuena
+1,17,Boulevard Puerto Aéreo
+1,18,Gómez Farías
+1,19,Zaragoza
+1,20,Pantitlán
+2,1,Cuatro Caminos
+2,2,Panteones
+2,3,Tacuba
+2,4,Cuitláhuac
+2,5,Popotla
+2,6,Colegio Militar
+2,7,Normal
+2,8,San Cosme
+2,9,Revolución
+2,10,Hidalgo
+2,11,Bellas Artes
+2,12,Allende
+2,13,Zócalo
+2,14,Pino Suárez
+2,15,San Antonio Abad
+2,16,Chabacano
+2,17,Viaducto
+2,18,Xola
+2,19,Villa de Cortés
+2,20,Nativitas
+2,21,Portales
+2,22,Ermita
+2,23,General Anaya
+2,24,Tasqueña
+3,1,Indios Verdes
+3,2,Deportivo 18 de Marzo
+3,3,Potrero
+3,4,La Raza
+3,5,Tlatelolco
+3,6,Guerrero
+3,7,Hidalgo
+3,8,Juárez
+3,9,Balderas
+3,10,Niños Héroes
+3,11,Hospital General
+3,12,Centro Médico
+3,13,Etiopía
+3,14,Eugenia
+3,15,División del Norte
+3,16,Zapata
+3,17,Coyoacán
+3,18,Viveros
+3,19,Miguel Ángel de Quevedo
+3,20,Copilco
+3,21,Universidad
+4,1,Martín Carrera
+4,2,Talismán
+4,3,Bondojito
+4,4,Consulado
+4,5,Canal del Norte
+4,6,Morelos
+4,7,Candelaria
+4,8,Fray Servando
+4,9,Jamaica
+4,10,Santa Anita
+5,1,Pantitlán
+5,2,Hangares
+5,3,Terminal Aérea
+5,4,Oceanía
+5,5,Aragón
+5,6,Eduardo Molina
+5,7,Consulado
+5,8,Valle Gómez
+5,9,Misterios
+5,10,La Raza
+5,11,Autobuses del Norte
+5,12,Instituto del Petróleo
+5,13,Politécnico
+6,1,El Rosario
+6,2,Tezozómoc
+6,3,Azcapotzalco
+6,4,Ferrería
+6,5,Norte 45
+6,6,Vallejo
+6,7,Instituto del Petróleo
+6,8,Lindavista
+6,9,Deportivo 18 de Marzo
+6,10,La Villa-Basílica
+6,11,Martín Carrera
+7,1,El Rosario
+7,2,Aquiles Serdán
+7,3,Camarones
+7,4,Refinería
+7,5,Tacuba
+7,6,San Joaquín
+7,7,Polanco
+7,8,Auditorio
+7,9,Constituyentes
+7,10,Tacubaya
+7,11,San Pedro de los Pinos
+7,12,San Antonio
+7,13,Mixcoac
+7,14,Barranca del Muerto
+8,1,Garibaldi
+8,2,Bellas Artes
+8,3,San Juan de Letrán
+8,4,Salto del Agua
+8,5,Doctores
+8,6,Obrera
+8,7,Chabacano
+8,8,La Viga
+8,9,Santa Anita
+8,10,Coyuya
+8,11,Iztacalco
+8,12,Apatlaco
+8,13,Aculco
+8,14,Escuadrón 201
+8,15,Atlalilco
+8,16,Iztapalapa
+8,17,Cerro de la Estrella
+8,18,UAM-I
+8,19,Constitución de 1917
+9,1,Tacubaya
+9,2,Patriotismo
+9,3,Chilpancingo
+9,4,Centro Médico
+9,5,Lázaro Cárdenas
+9,6,Chabacano
+9,7,Jamaica
+9,8,Mixiuhca
+9,9,Velódromo
+9,10,Ciudad Deportiva
+9,11,Puebla
+9,12,Pantitlán
+A,1,Pantitlán
+A,2,Agrícola Oriental
+A,3,Canal de San Juan
+A,4,Tepalcates
+A,5,Guelatao
+A,6,Peñón Viejo
+A,7,Acatitla
+A,8,Santa Marta
+A,9,Los Reyes
+A,10,La Paz
+B,1,Buenavista
+B,2,Guerrero
+B,3,Garibaldi
+B,4,Lagunilla
+B,5,Tepito
+B,6,Morelos
+B,7,San Lázaro
+B,8,Ricardo Flores Magón
+B,9,Romero Rubio
+B,10,Oceanía
+B,11,Deportivo Oceanía
+B,12,Bosque de Aragón
+B,13,Villa de Aragón
+B,14,Nezahualcóyotl
+B,15,Impulsora
+B,16,Río de los Remedios
+B,17,Múzquiz
+B,18,Ecatepec
+B,19,Olímpica
+B,20,Plaza Aragón
+B,21,Ciudad Azteca
+12,1,Mixcoac
+12,2,Insurgentes Sur
+12,3,Hospital 20 de Noviembre
+12,4,Zapata
+12,5,Parque de los Venados
+12,6,Eje Central
+12,7,Ermita
+12,8,Mexicaltzingo
+12,9,Atlalilco
+12,10,Culhuacán
+12,11,San Andrés Tomatlán
+12,12,Lomas Estrella
+12,13,Calle 11
+12,14,Periférico Oriente
+12,15,Tezonco
+12,16,Olivos
+12,17,Nopalera
+12,18,Zapotitlán
+12,19,Tlaltenco
+12,20,Tláhuac
